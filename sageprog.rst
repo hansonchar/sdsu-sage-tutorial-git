@@ -155,7 +155,7 @@ And in case we try to make *some* nonsensical conversions, SageMath will raise a
      c) ``1/2 + i``
      d) ``e + pi``
      e) ``e.n() + pi``
-     f) ``e.n() + pi.()``
+     f) ``e.n() + pi.n()``
 
   #. For which of the following does the *coercion* make sense?
 
