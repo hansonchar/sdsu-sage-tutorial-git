@@ -773,7 +773,7 @@ this style of programming with python see the `Python Documentation`_.
      d) Remove the ``M`` that you  just inserted.
      e) Explain the differences between the :meth:`.extend` and the :meth:`.append` methods.
 
-  #. Let ``L = [1,2,5, 14, 17, 20]``.  What are the sub-lists are accessed using the following *slices*.
+  #. Let ``L = [1,2,5, 14, 17, 20]``.  What are the sub-lists that are accessed using the following *slices*.
 
      a) ``L[:-1]``
      b) ``L[-1:]``
